@@ -3,7 +3,7 @@
 
 👨‍💼 **Professional Life:**
 - Currently a DevOps engineer at IBM, leveraging the transformative power of technology.
-- Expertise in infrastructure management, automation using Ansible, Proxmox, Linux VM servers, and Python scripting.
+- Expertise in infrastructure management, automation using Ansible, Proxmox, Linux VM servers, bash scripting and Python scripting.
 
 💻 **Tech Hobbyist:**
 - My love for tech extends into my personal life:
