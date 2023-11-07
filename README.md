@@ -7,7 +7,7 @@
 
 - 👦 I'm Mihai aka Z3r0L1nk, a 35-year-old Tech enthusiast.
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently always improving my learning for:<br>
+- 🌱 Always improving my learning for:<br>
 &nbsp; > &nbsp; Ansible<br>
 &nbsp; > &nbsp; docker<br>
 &nbsp; > &nbsp; Python<br>
