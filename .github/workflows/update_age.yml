@@ -23,7 +23,7 @@ jobs:
 
     - name: Commit and push if changed
       env:
-        ACCESS_TOKEN: ${{ secrets.update_age }}
+        ACCESS_TOKEN: ${{ secrets.UPDATE_AGE }}
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
