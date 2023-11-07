@@ -30,7 +30,7 @@
 - Running a personal Proxmox cluster with CEPH Storage powered by 3x HP Mini EliteDesk 800 G3, all have has the same configuration:
   - CPU: Intel Core i5-7500 CPU,
   - RAM: 32GB Corsair,
-  - OS SSD Disk 240GB,
-  - NVMe 1TB Kingston.
+  - OS SSD Disk: 240GB,
+  - NVMe storage: 1TB Kingston.
   - Managing a multitude of automations and personal projects. 
 - Passionate about exploring and staying current with tech trends.
