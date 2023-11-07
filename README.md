@@ -31,6 +31,6 @@
   - CPU: Intel Core i5-7500 CPU,
   - RAM: Corsair Vengeance, 32GB(2x16GB) DDR4, 3200MHz CL22,
   - OS SSD Disk: Kingston A400, 240GB,
-  - NVMe storage: Kingston NV2 1TB, PCIe 4.0 NVMe, M.2.
+  - Storage: Kingston NV2 1TB, PCIe 4.0 NVMe, M.2.
   - Managing a multitude of automations and personal projects. 
 - Passionate about exploring and staying current with tech trends.
