@@ -12,6 +12,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.UPDATE_AGE }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -22,10 +24,9 @@ jobs:
       run: python update_age.py
 
     - name: Commit and push if changed
-      env:
-        ACCESS_TOKEN: ${{ secrets.UPDATE_AGE }}
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git commit -am "Update age in README" || exit 0
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -am "Update age in README" && git push)
+      env:
+        GITHUB_TOKEN: ${{ secrets.UPDATE_AGE }}
