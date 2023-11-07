@@ -27,10 +27,10 @@
 
 ## 🖥️ **Tech Hobbyist:**
 - My ❤️ for tech extends into my personal life.
-- Running a personal Proxmox cluster with CEPH Storage powered by 3x HP Mini EliteDesk 800 G3, all have has the same configuration:
+- Running a HomeLab Proxmox cluster with CEPH Storage powered by 3x HP Mini EliteDesk 800 G3, all have has the same configuration:
   - CPU: Intel Core i5-7500 CPU,
-  - RAM: 32GB Corsair,
-  - OS SSD Disk: 240GB,
-  - NVMe storage: 1TB Kingston.
+  - RAM: Corsair Vengeance, 32GB(2x16GB) DDR4, 3200MHz CL22,
+  - OS SSD Disk: Kingston A400, 240GB,
+  - NVMe storage: Kingston NV2 1TB, PCIe 4.0 NVMe, M.2.
   - Managing a multitude of automations and personal projects. 
 - Passionate about exploring and staying current with tech trends.
