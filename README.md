@@ -9,9 +9,9 @@
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently always improving my learning for: Ansible, docker, Python
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
-&nbsp; ∘ &nbsp; 📊 Pentesting related Projects with Kali Linux<br>
-&nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
-&nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects<br>
+&nbsp; > &nbsp; 📊 Pentesting related Projects with Kali Linux<br>
+&nbsp; > &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
+&nbsp; > &nbsp; 🛠 DIY Raspberry Pi Projects<br>
 <br><br>
 
 ## 📡 **HAM Radio:**
