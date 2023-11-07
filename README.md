@@ -15,6 +15,7 @@
 &nbsp; > &nbsp; 📊 Pentesting related Projects with Kali Linux<br>
 &nbsp; > &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
 &nbsp; > &nbsp; 🛠 DIY Raspberry Pi Projects<br>
+<br>
 
 ## 📡 **HAM Radio:**
 - A licensed HAM radio hobbyist with the callsign YO3ISL.
