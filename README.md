@@ -26,9 +26,8 @@
 - Expertise in infrastructure management, automation using Ansible, Proxmox, Linux VM servers, bash scripting and Python scripting.
 
 ## 🖥️ **Tech Hobbyist:**
-- My love for tech extends into my personal life:
-- Running a personal Proxmox cluster powered by:
-  - Machines: 3x HP Mini EliteDesk 800 G3
+- My ❤️ for tech extends into my personal life.
+- Running a personal Proxmox cluster with CEPH Storage powered by 3x HP Mini EliteDesk 800 G3, all have has the same configuration:
   - CPU: Intel Core i5-7500 CPU,
   - RAM: 32GB Corsair,
   - OS SSD Disk 240GB,
