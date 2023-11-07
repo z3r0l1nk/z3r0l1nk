@@ -15,8 +15,8 @@ with open(readme_path, 'r') as file:
 
 # Replace the age
 new_readme_contents = re.sub(
-    r"I'm Mihai aka Z3r0L1nk, a \d{2}-year-old",
-    f"I'm Mihai aka Z3r0L1nk, a {age}-year-old",
+    r"I'm Mihai aka Z3r0L1nk, a \d{2}-year-old Tech enthusiast",
+    f"I'm Mihai aka Z3r0L1nk, a {age}-year-old Tech enthusiast",
     readme_contents
 )
 
