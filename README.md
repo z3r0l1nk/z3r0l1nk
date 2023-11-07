@@ -5,7 +5,7 @@
 <img align="left" height="280vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-- 👦 I'm Mihai aka Z3r0L1nk, a 34-year-old Tech enthusiast.
+- 👦 I'm Mihai aka Z3r0L1nk, a 35-year-old Tech enthusiast.
 - 🔭 I’m currently working on many projects
 - 🌱 Always improving my learning for:<br>
 &nbsp; > &nbsp; Ansible<br>
