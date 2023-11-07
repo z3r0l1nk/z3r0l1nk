@@ -1,0 +1,29 @@
+name: Update Age
+
+on:
+  schedule:
+    # At 00:00 on 28th January
+    - cron: '0 0 28 1 *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Update Age
+      run: python update_age.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git commit -am "Update age in README" || exit 0
+        git push
