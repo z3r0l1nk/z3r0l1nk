@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        token: ${{ secrets.UPDATE_AGE }}
+        token: ${{ secrets.UPDATE_AGE }} ##Create token with "repo" rights!
 
     - name: Set up Python
       uses: actions/setup-python@v2
