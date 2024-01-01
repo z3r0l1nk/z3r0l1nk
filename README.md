@@ -33,4 +33,4 @@
   - OS SSD Disk: Kingston A400, 240GB,
   - Storage: Kingston NV2 1TB, PCIe 4.0 NVMe, M.2.
   - Managing a multitude of automations and personal projects. 
-- Passionate about exploring and staying current with tech trends.
+- Passionate about exploring and staying up to date with latest tech trends.
