@@ -1,10 +1,10 @@
 ---
 
 <div>
-<img align="left" height="260vh" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<img align="left" height="280vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+<img align="middle" height="520vh" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
+## **About me:** 
 - 👦 I'm Mihai aka Z3r0L1nk, a 36-year-old Tech enthusiast.
 - 🔭 I’m currently working on many projects
 - 🌱 Always improving my learning for:<br>
