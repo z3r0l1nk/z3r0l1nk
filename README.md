@@ -22,7 +22,7 @@
 - When I'm not working, you can find me tweaking my home setup, or reaching out to the world through my HAM radio. 📡🌍
   
 ## 👨‍💼 **Professional Life:**
-- Currently a DevOps engineer at IBM, leveraging the transformative power of technology.
+- Working as DevOps, leveraging the transformative power of technology.
 - Expertise in infrastructure management, automation using Ansible, Proxmox, Linux VM servers, bash scripting and Python scripting.
 
 ## 🖥️ **Tech Hobbyist:**
