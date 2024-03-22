@@ -10,6 +10,7 @@
 - 🌱 Always improving my learning for:<br>
 &nbsp; > &nbsp; Ansible<br>
 &nbsp; > &nbsp; docker<br>
+&nbsp; > &nbsp; Kubernetes<br>
 &nbsp; > &nbsp; Python<br>
 - I enjoy working on:<br>
 &nbsp; > &nbsp; 📊 Pentesting related Projects with Kali Linux<br>
@@ -27,7 +28,7 @@
 
 ## 🖥️ **Tech Hobbyist:**
 - My ❤️ for tech extends into my personal life.
-- Running a HomeLab Proxmox cluster with CEPH Storage powered by 3x HP Mini EliteDesk 800 G3, all have has the same configuration:
+- Running a HomeLab Proxmox cluster with CEPH Storage powered by 4 x HP Mini EliteDesk 800 G3, all have has the same configuration:
   - CPU: Intel Core i5-7500 CPU,
   - RAM: Corsair Vengeance, 32GB(2x16GB) DDR4, 3200MHz CL22,
   - OS SSD Disk: Kingston A400, 240GB,
