@@ -14,8 +14,9 @@
 &nbsp; > &nbsp; Python<br>
 - I enjoy working on:<br>
 &nbsp; > &nbsp; 📊 Pentesting related Projects with Kali Linux<br>
-&nbsp; > &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
+&nbsp; > &nbsp; 🖼 Custom Projects<br>
 &nbsp; > &nbsp; 🛠 DIY Raspberry Pi Projects<br>
+&nbsp; > &nbsp; 🛠 WiFI Pineapple Pager 🍍📟<br>
 <br><br>
 
 ## 📡 **HAM Radio:**
