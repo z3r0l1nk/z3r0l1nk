@@ -5,7 +5,7 @@
 </div>
 
 ## **About me:** 
-- 👦 I'm Mihai aka Z3r0L1nk, a 37-year-old Tech enthusiast.
+- 👦 I'm Mihai aka Z3r0L1nk, a 38-year-old Tech enthusiast.
 - 🔭 I’m currently working on many projects
 - 🌱 Always improving my learning for:<br>
 &nbsp; > &nbsp; Ansible<br>
